@@ -21,7 +21,7 @@ const Header2 = () => {
     >
       {/* Logo a la izquierda */}
       <Link to="/" className="flex items-center gap-4">
-        <img src="/assets/logo.png" alt="Logo La Pineda" className="h-10 md:h-12" />
+        <img src="/assets/logo.jpg" alt="Logo La Pineda" className="h-10 md:h-12" />
       </Link>
 
       {/* Nombre a la derecha */}

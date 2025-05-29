@@ -27,7 +27,7 @@ const Header = () => {
       {/* Logo */}
       <a href="#top">
         <img
-          src="/assets/logo.png"
+          src="/assets/logo.jpg"
           alt="Logo La Pineda"
           className="h-10 md:h-12"
         />

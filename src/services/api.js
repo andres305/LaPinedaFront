@@ -1,4 +1,3 @@
-// Importa la librería axios para hacer peticiones HTTP
 import axios from 'axios';
 
 // Crea una instancia de axios con la URL base definida en las variables de entorno

@@ -1,4 +1,3 @@
-// src/services/publicApi.js
 import axios from 'axios';
 
 const publicApi = axios.create({
